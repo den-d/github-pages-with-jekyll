@@ -1,3 +1,12 @@
+---
+
+title: "Brand-New-Day"
+
+date: 2019-08-28
+
+---
+
+
 This is the day when my first blog post on GitHub is born. Great day should I say.
 It seems to be sunny and clear weather. So I'm a little bit confused about today's activities.
 It's really hard to stop exploring GitHub. I feel like getting addicted to all this awesome possibilities
