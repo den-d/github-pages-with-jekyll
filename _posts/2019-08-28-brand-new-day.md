@@ -15,5 +15,5 @@ it seems that i LOVE'em. Realy. It's unbelievable...
 Nevertheless, last summer days shouldn't be spoiled by sitting in the concrete box. I hope GitHub will be still here, 
 when i return from my short, couple of days, country trip. See you soon, my new obssession.
 
-Sincresly yours,
+Sincerely yours,
 Den D
